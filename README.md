@@ -1,16 +1,19 @@
 # praktikum1
 
-A new Flutter project.
+Project Modul 1 - Setup & Aplikasi Pertama
 
-## Getting Started
+📖 Deskripsi
 
-This project is a starting point for a Flutter application.
+Project ini adalah tugas pertama dari mata kuliah Mobile Programming. Tujuannya adalah untuk memastikan seluruh lingkungan pengembangan (environment) Flutter dan Android Studio telah terpasang dengan benar di komputer Anda.
 
-A few resources to get you started if this is your first Flutter project:
+Tugas ini memvalidasi instalasi dengan cara memodifikasi dan menjalankan aplikasi default Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎯 Tujuan Utama Project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Validasi Instalasi: Membuktikan bahwa Flutter SDK dan Android Studio (termasuk Android SDK) telah terpasang dan terkonfigurasi dengan benar.
+
+Modifikasi Sederhana: Melakukan perubahan kecil pada kode default untuk membiasakan diri dengan struktur file main.dart.
+
+Pengujian Perangkat: Memastikan aplikasi dapat dijalankan di Emulator (AVD) dan di Perangkat Android Fisik (HP).
+
+✅ Daftar Tugas (To-Do List)
